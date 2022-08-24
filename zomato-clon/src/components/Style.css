@@ -1,0 +1,59 @@
+@import url("https://fonts.googleapis.com/css2?family=Dancing+Script&display=swap");
+.body {
+  font-family: "Dancing Script", cursive;
+}
+
+.uper-data h4 {
+  font-size: 18px;
+  color: rgba(17, 17, 17, 0.849);
+  letter-spacing: 0.4px;
+}
+.hove {
+  border-radius: 10px;
+  cursor: pointer;
+}
+.hove:hover {
+  box-shadow: 0 0 10px 2px rgba(209, 24, 24, 0.1);
+  transition: 0.2s;
+}
+
+.cd {
+  border-radius: 16px;
+  margin-top: 18px;
+  height: 16rem;
+}
+.uper-data span {
+  background-color: rgb(25, 231, 231);
+  border-radius: 6px;
+  text-align: center;
+  font: size 13px;
+  font-weight: 600;
+  padding: 2px 1px;
+  width: 45px;
+}
+.lower-data h5 {
+  font: size 15px;
+  letter-spacing: 00.4px;
+  font-weight: 400;
+  color: rgba(17, 17, 17, 0.849);
+}
+.lower-data span {
+  font: size 15px;
+  letter-spacing: 0.4px;
+  color: rgba(17, 17, 17, 0.849);
+}
+
+.extra {
+  border-bottom: 1px solid rgba(17, 17, 17, 0.849);
+}
+.last-data .last-logo {
+  width: 18px;
+}
+.last-data p {
+  font-size: 14px;
+  margin-top: 18px;
+  letter-spacing: 0.2px;
+}
+.last-data .last-logo2 {
+  width: 45px;
+}
